@@ -1,4 +1,4 @@
-![GitHub Downloads](https://shields.io)
+(![GitHub Downloads](https://shields.io))
 
 # BMS Monitor (Flutter)
 
