@@ -1,3 +1,5 @@
+![GitHub Downloads](https://shields.io)
+
 # BMS Monitor (Flutter)
 
 BSD_BMS 계열(서비스 `00002748-08c2-11e1-9073-0e8ac72e1001`) BLE BMS에서 **전체 전압 / 셀 전압**을 1초마다 읽어 보여 주는 앱입니다.
